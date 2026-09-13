@@ -23,13 +23,13 @@ The project explores how property features such as location, area, type, and ame
 ## Dashboards
 
 ### Data Overview
-![Dashboard](dashboards/dash_1jpeg.jpeg)
+![Dashboard](Egypt_Houses_price/dashboards/dash_1jpeg.jpeg)
 
 ### REAL ESTATE INTELLIGENCE
-![Dashboard](dashboards/dash_2jpeg.jpeg)
+![Dashboard](Egypt_Houses_price/dashboards/dash_2jpeg.jpeg)
 
 ### PROPERTY READINESS ANALYTICS
-![Dashboard](dashboards/dash_3.jpeg)
+![Dashboard](Egypt_Houses_price/dashboards/dash_3.jpeg)
 
 ### MARKET SEGMENTATION & PREMIUM ANALYTICS
-![Dashboard](dashboards/dash_4.jpeg)
+![Dashboard](Egypt_Houses_price/dashboards/dash_4.jpeg)
